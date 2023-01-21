@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/uwatchfree/static/css/main.cb98cda7.css",
+    "main.js": "/uwatchfree/static/js/main.1f3caaec.js",
+    "static/js/787.686a74b9.chunk.js": "/uwatchfree/static/js/787.686a74b9.chunk.js",
+    "index.html": "/uwatchfree/index.html",
+    "main.cb98cda7.css.map": "/uwatchfree/static/css/main.cb98cda7.css.map",
+    "main.1f3caaec.js.map": "/uwatchfree/static/js/main.1f3caaec.js.map",
+    "787.686a74b9.chunk.js.map": "/uwatchfree/static/js/787.686a74b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb98cda7.css",
+    "static/js/main.1f3caaec.js"
+  ]
+}
