@@ -39,7 +39,7 @@ window.scroll(0,0)
 <div className="card-body">
 <div className="row gy-5">
 <div className="col">
-<a href="Modal" className="btn btn-primary">Watch Movie</a>
+<a href="Darji" className="btn btn-primary">Watch Movie</a>
 </div>
 
 
@@ -55,7 +55,7 @@ window.scroll(0,0)
 <div className="card-body">
 <div className="row gy-5">
 <div className="col">
-<a href="Modal5" className="btn btn-primary">Watch Movie</a>
+<a href="Againsttheice" className="btn btn-primary">Watch Movie</a>
 </div>
 
 
@@ -71,7 +71,7 @@ window.scroll(0,0)
 <div className="card-body">
 <div className="row gy-5">
 <div className="col">
-<a href="Modal3" className="btn btn-primary">Watch Movie</a>
+<a href="Dhokha" className="btn btn-primary">Watch Movie</a>
 </div>
 
 </div> </div></div></div>
@@ -86,7 +86,7 @@ window.scroll(0,0)
 <div className="card-body">
 <div className="row gy-5">
 <div className="col">
-<a href="Modal2" className="btn btn-primary">Watch Movie</a>
+<a href="Freddy" className="btn btn-primary">Watch Movie</a>
 </div>
 
 
@@ -102,7 +102,7 @@ window.scroll(0,0)
 <div className="card-body">
 <div className="row gy-5">
 <div className="col">
-<a href="Modal4" className="btn btn-primary">Watch Movie</a>
+<a href="Kuttey" className="btn btn-primary">Watch Movie</a>
 </div>
 </div> </div></div>
 </div>
