@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/uwatchfree/static/css/main.cb98cda7.css",
-    "main.js": "/uwatchfree/static/js/main.e7dcebb6.js",
-    "static/js/787.686a74b9.chunk.js": "/uwatchfree/static/js/787.686a74b9.chunk.js",
-    "index.html": "/uwatchfree/index.html",
-    "main.cb98cda7.css.map": "/uwatchfree/static/css/main.cb98cda7.css.map",
-    "main.e7dcebb6.js.map": "/uwatchfree/static/js/main.e7dcebb6.js.map",
-    "787.686a74b9.chunk.js.map": "/uwatchfree/static/js/787.686a74b9.chunk.js.map"
+    "main.css": "/static/css/main.e05251ae.css",
+    "main.js": "/static/js/main.ff5efdaf.js",
+    "static/js/787.db7e6692.chunk.js": "/static/js/787.db7e6692.chunk.js",
+    "index.html": "/index.html",
+    "main.e05251ae.css.map": "/static/css/main.e05251ae.css.map",
+    "main.ff5efdaf.js.map": "/static/js/main.ff5efdaf.js.map",
+    "787.db7e6692.chunk.js.map": "/static/js/787.db7e6692.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb98cda7.css",
-    "static/js/main.e7dcebb6.js"
+    "static/css/main.e05251ae.css",
+    "static/js/main.ff5efdaf.js"
   ]
 }
